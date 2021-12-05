@@ -948,7 +948,7 @@ aside.slide{
     }
 }
 
-@media (min-width: 720px) and (max-width: 1200px){
+@media (min-width: 720px) and (max-width: 1000px){
     .navbar{
         flex-direction: column;
         margin-top: 10%;
